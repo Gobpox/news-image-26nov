@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""news-image entry — SPLIT layout (replacement brief, Saturday).
+"""news-image entry — map-column layout (replacement brief, Saturday).
 
 Zones: masthead + UTC timeline · top zone split: LEFT three stacked
 hero panels, RIGHT tall dot-map panel (numbered pins + tally bar) ·

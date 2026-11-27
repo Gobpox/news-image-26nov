@@ -5,7 +5,7 @@
 # The World in One Picture — Thursday 26 November 2026
 
 A make.fun `news-image-20261126` entry: one 1024×1024 image summing up
-Thursday 26 November 2026's world news in a SPLIT layout built for
+Thursday 26 November 2026's world news in a map-column layout built for
 small-size legibility — three hero panels stacked down the left
 (≥40px headlines, drawn scene at the left of each panel with its
 label inside the scene), a tall dot-map panel down the right whose
